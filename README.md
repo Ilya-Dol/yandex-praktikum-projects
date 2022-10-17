@@ -4,7 +4,7 @@
 
 В этом репозитории выложены мои проекты, выполненные в рамках прохождения обучения на курсах Яндекс.Практикум по специальности Специалист по Data Science.
 
-**[Папка 00 - Проект "Исследование надежности заемщиков"](https://github.com/Ilya-Dol/yandex-praktikum-projects/blob/7e829d2c3bc317fbb9a32be96e7b2c747dffac5f/00_Music_in_city/00_%D0%9Cusic_in_city.ipynb)**
+**[Папка 00 - Проект "Исследование надежности заемщиков"](yandex-praktikum-projects/00_Music_in_city/00_Мusic_in_city.ipynb)**
 <br>На основе данных о клиентах банка проведено исследование надежности заемщиков. Определены категории клиентов, составлены портреты надежных и ненадежных замещиков.
 
 **[Папка 01 - Проект "Исследование надежности заемщиков"](https://github.com/Kirill-Kiselev/DS_project/tree/main/01_Research_of_borrowers_reliability)**
