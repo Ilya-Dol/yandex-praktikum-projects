@@ -1,4 +1,5 @@
 ### Hi there 👋
+Программа курса: https://practicum.yandex.ru/profile/data-scientist/
 
 # DS_projects
 
