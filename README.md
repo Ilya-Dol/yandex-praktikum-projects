@@ -1,3 +1,4 @@
+Привет всем 👋
 # yandex-praktikum-projects
 # DS_projects
 
