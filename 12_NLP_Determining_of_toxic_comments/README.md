@@ -32,3 +32,4 @@
 - sklearn
 - catboost
 - lightgbm
+- Model_BERT
